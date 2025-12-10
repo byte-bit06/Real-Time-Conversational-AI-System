@@ -254,7 +254,7 @@ We welcome contributions! Please follow these guidelines:
 
 This project currently does not have a formal license. All rights are reserved by the main contributor.
 
-*   **Copyright © 2024 byte-bit06.** All rights reserved.
+*   **Copyright © 2025 byte-bit06.** All rights reserved.
 *   **Usage Restrictions:** Without an explicit license, redistribution, modification, or commercial use of this software is generally restricted. Please contact the main contributor for specific permissions.
 
 ## 🙏 Acknowledgments
