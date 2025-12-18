@@ -150,14 +150,14 @@ On first launch, the system will:
 ### Example Interactions
 
 ```
-👤 You: What's the weather like today?
-🤖 AI: I don't have access to real-time weather data, but I can help you find a weather service or check online.
+👤 You: Can you help me get started on a project?
+🤖 AI: Yea sure, what are you working on?
 
 👤 You: [Shares screen] What's on my screen?
 🤖 AI: I can see you have a code editor open with Python code. Would you like help with anything specific?
 
-👤 You: Set a timer for 5 minutes
-🤖 AI: I can't directly set timers, but I can help you write a script to do that or suggest timer apps.
+👤 You: How could I improve an AI models latency?
+🤖 AI: There are a couple of ways we could reduce latency: reducing the size of input, using stream proccessing methods and using models with less parameters.
 ```
 
 ## 🛠️ Technical Details
